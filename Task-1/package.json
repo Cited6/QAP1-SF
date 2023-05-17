@@ -1,0 +1,19 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "Understanding core global objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cited6/QAP1-SF.git"
+  },
+  "author": "Savanna Fifield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cited6/QAP1-SF/issues"
+  },
+  "homepage": "https://github.com/Cited6/QAP1-SF#readme"
+}
