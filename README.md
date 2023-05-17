@@ -1,2 +1,3 @@
 # QAP1-SF
-QAP1-SF SAVANNA FIFIELD
+QAP1-SF Full Stack 
+Author: Savanna Fifield 
